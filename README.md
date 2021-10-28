@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 💻 You can try [Random8](https://github.com/jirihofman/random8)
-- 🔭 I’m currently working on [🍓](https://github.com/jirihofman/strawberry-scim), [🥑](https://github.com/jirihofman/avocado)
+- 🎱 🎲 You can try [Random8](https://github.com/jirihofman/random8)
+- 👨‍💻 🔭 I’m currently working on [🍓](https://github.com/jirihofman/strawberry-scim), [🥑](https://github.com/jirihofman/avocado)
 
 <!--
 **jirihofman/jirihofman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
