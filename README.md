@@ -1,6 +1,9 @@
 ### Hi there 👋
-- 🎱 🎲 You can try [Random8](https://github.com/jirihofman/random8)
-- 👨‍💻 🔭 I’m currently working on [🍓](https://github.com/jirihofman/strawberry-scim), [🥑](https://github.com/jirihofman/avocado)
+- 🎱 🎲 You can try [Random8](https://github.com/jirihofman/random8) to generate yourself some random data and/or email addresses.
+- 👨‍💻 🔭 I’m currently working on
+  - [🍟 tracking your orders](https://github.com/jirihofman/dali-jsme-jidlo) from popular Czech food delivery service
+  - 🍓 a very lightweight [SCIM client](https://github.com/jirihofman/strawberry-scim) ,
+  - [🥑 kids quiz](https://github.com/jirihofman/avocado)
 
 <!--
 **jirihofman/jirihofman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
