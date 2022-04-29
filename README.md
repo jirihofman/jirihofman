@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+### Give it a try
 - 🎱 🎲 You can try [Random8](https://github.com/jirihofman/random8) to generate yourself some random data and/or email addresses.
-- 👨‍💻 🔭 I’m currently working on
-  - [🍟 tracking your orders](https://github.com/jirihofman/dali-jsme-jidlo) from popular Czech food delivery service
+- [🍟 tracking your orders](https://github.com/jirihofman/dali-jsme-jidlo) from popular Czech food delivery service
+### I’m currently working on 👨‍💻 🔭
   - 🍓 a very lightweight [SCIM client](https://github.com/jirihofman/strawberry-scim) ,
   - [🥑 kids quiz](https://github.com/jirihofman/avocado)
 
@@ -18,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Few stats
+![Jiří Hofman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirihofman&show_icons=true&theme=radical)
