@@ -1,11 +1,11 @@
 ### Hi there 👋
-- ➡️➡️ Give it a try
-  - 🎱 🎲 You can try [Random8](https://github.com/jirihofman/random8) to generate yourself some random data and/or email addresses.
-  - [🍟 🥯 Tracking your orders](https://github.com/jirihofman/dali-jsme-jidlo) from popular Czech food delivery service
-- 👨‍💻 🔭 I’m currently working on
-  - 🍓 A very lightweight [SCIM client](https://github.com/jirihofman/strawberry-scim) ,
-  - [🥑 A kids quiz](https://github.com/jirihofman/avocado)
 
+| Status | Repository | Web | Notes |
+| ------ | ---------- | --- | ----- |
+| ✅ | [Random8](https://github.com/jirihofman/random8) | https://random8-sepia.vercel.app/ | 🎱 🎲 Generate yourself some random data and/or email addresses. |
+| ✅ | [Dali jsme jídlo](https://github.com/jirihofman/dali-jsme-jidlo) | https://jirihofman.github.io/dali-jsme-jidlo/ | 🍟 🥯 Tracking your orders from popular Czech food delivery service. |
+| Usable | [SCIM client](https://github.com/jirihofman/strawberry-scim) | https://strawberry-scim.vercel.app/ | 🍓 A very lightweight SCIM client |
+| 🔨 | [Avocado quiz](https://github.com/jirihofman/avocado) | https://avocado-one.vercel.app/ | 🥑 A kids quiz |
 <!--
 **jirihofman/jirihofman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
