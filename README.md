@@ -4,8 +4,8 @@
 | ------ | ---------- | ----- |
 | ✅ | [Random8](https://github.com/jirihofman/random8), [web](https://random8-sepia.vercel.app/) | 🎱 🎲 Generate yourself some random data and/or email addresses. |
 | ✅ | [Dali jsme jídlo](https://github.com/jirihofman/dali-jsme-jidlo), [web](https://jirihofman.github.io/dali-jsme-jidlo/) | 🍟 🥯 Tracking your orders from popular Czech food delivery service. |
-| 👌 | [SCIM client](https://github.com/jirihofman/strawberry-scim), [web](https://strawberry-scim.vercel.app/) | 🍓 A very lightweight SCIM client |
-| 🔨 | [Avocado quiz](https://github.com/jirihofman/avocado), [web](https://avocado-one.vercel.app/) | 🥑 A kids quiz |
+| ✅ | [SCIM client](https://github.com/jirihofman/strawberry-scim), [web](https://strawberry-scim.vercel.app/) | 🍓 👨‍💻 A very lightweight SCIM client |
+| ⏸ | [Avocado quiz](https://github.com/jirihofman/avocado), [web](https://avocado-one.vercel.app/) | 🥑 🤔 A kids quiz MVP. Development currently halted - need more motivation. |
 <!--
 **jirihofman/jirihofman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
