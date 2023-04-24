@@ -1,4 +1,5 @@
 ### Hi there 👋
+Check out my [portfolio page](https://portfolio-jirihofman.vercel.app) for a nice overview or see a quick summary of my work below.
 
 | Status | Repository | Notes |
 | ------ | ---------- | ----- |
