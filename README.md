@@ -3,7 +3,7 @@ Check out my [portfolio page](https://portfolio-jirihofman.vercel.app) for a nic
 
 | Status | Repository | Notes |
 | ------ | ---------- | ----- |
-| ✅ | [Random8](https://github.com/jirihofman/random8), [web](https://random8-sepia.vercel.app/) | 🎱 🎲 Generate yourself some random data and/or email addresses. |
+| ✅ | [Random8](https://github.com/jirihofman/random8), [web](https://random8.vercel.app/) | 🎱 🎲 Generate yourself some random data and/or email addresses. |
 | ✅ | [Dali jsme jídlo](https://github.com/jirihofman/dali-jsme-jidlo), [web](https://jirihofman.github.io/dali-jsme-jidlo/) | 🍟 🥯 Kolik jsem utratil(a) na Dámejídlo.cz? Tracking your orders from popular Czech food delivery service. |
 | ✅ | [SCIM client](https://github.com/jirihofman/strawberry-scim), [web](https://strawberry-scim.vercel.app/) | 🍓 👨‍💻 A very lightweight SCIM client |
 | ✅ | [NextJS App template](https://github.com/jirihofman/nextjs-fullstack-app-template), [web](https://nextjs-fullstack-app-template-potato.vercel.app/) | 🥔 🔖 Template for quick app development |
