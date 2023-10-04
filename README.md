@@ -3,7 +3,7 @@ Check out my [portfolio page](https://portfolio-jirihofman.vercel.app) for a nic
 
 | Repository | Web | Notes |
 | ------ | ---------- | ----- |
-| [Portfolio](https://github.com/jirihofman/portfolio) | https://portfolio-jirihofman.vercel.app | 📃 👨‍💻 My portfolio page that can be used as a template for other GitHub users. Learning Tailwind CSS along the way. |
+| [Portfolio](https://github.com/jirihofman/portfolio) | https://portfolio-jirihofman.vercel.app | 📃 👨‍💻 My portfolio page that can be used as a template for other GitHub users. |
 | [The Sentiment of The Guardian](https://github.com/jirihofman/sentiment-guardian) | https://sentiment-guardian.vercel.app | 📰 😶‍🌫️ Good news or bad news from The Guardian? See the sentiment for each headline. |
 | [Random8](https://github.com/jirihofman/random8) | https://random8.vercel.app | 🎱 🎲 Generate yourself some random data and/or email addresses. |
 | [Dali jsme jídlo](https://github.com/jirihofman/dali-jsme-jidlo) | https://jirihofman.github.io/dali-jsme-jidlo | 🍟 🥯 Kolik jsem utratil(a) na Dámejídlo.cz? Tracking your orders from popular Czech food delivery service. |
